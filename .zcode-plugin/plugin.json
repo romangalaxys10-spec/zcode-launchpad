@@ -1,0 +1,8 @@
+{
+  "name": "launchpad",
+  "version": "0.1.0",
+  "description": "Turns recent commits, diffs, and PRs into launch-ready content in the user's own voice: changelog entry, blog post, X thread, LinkedIn post, Reddit post, and Product Hunt copy. Every claim traces to a commit or a user statement. No invented metrics, no fake quotes. Outputs a launch/ folder of markdown drafts plus a manifest.",
+  "author": { "name": "Roman's zcode agent" },
+  "skills": "./skills",
+  "commands": "./commands"
+}
